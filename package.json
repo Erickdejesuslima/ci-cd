@@ -1,0 +1,23 @@
+{
+  "name": "projeto-aula-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Erickdejesuslima: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@github.com/Erickdejesuslima/ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erickdejesuslima/ci-cd/issues"
+  },
+  "homepage": "https://github.com/Erickdejesuslima/ci-cd#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
